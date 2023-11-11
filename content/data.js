@@ -1,0 +1,39 @@
+const people = [
+    {
+        id:1,
+        name:'utsav',
+        city:'surat',
+        age:'20',
+        occupation:'student',
+    },
+    {
+        id:2,
+        name:'jay',
+        city:'baroda',
+        age:'20',
+        occupation:'student',
+    },
+    {
+        id:3,
+        name:'jainam',
+        city:'ahemdabad',
+        age:'19',
+        occupation:'lawyer',
+    },
+    {
+        id:4,
+        name:'yash',
+        city:'bharuch',
+        age:'23',
+        occupation:'student',
+    },
+    {
+        id:5,
+        name:'khusi',
+        city:'anand',
+        age:'22',
+        occupation:'professor'
+    }
+]
+
+module.exports={people}
